@@ -4909,9 +4909,6 @@ https://doh.pub/dns-query
 [/14944.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/1495c8.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/14hj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -19973,9 +19970,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/628.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/628536nyv.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/62923.vip/]https://dns.alidns.com/dns-query
@@ -35480,9 +35474,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/antzk.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/anviettek.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/anw.red/]https://dns.alidns.com/dns-query
@@ -160648,6 +160639,9 @@ https://doh.pub/dns-query
 [/jamidol.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/jamms.org/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/jammyfm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -170264,9 +170258,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jsadkg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jsadt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jsaeit.com/]https://dns.alidns.com/dns-query

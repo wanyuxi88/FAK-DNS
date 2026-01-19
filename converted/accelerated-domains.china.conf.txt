@@ -23134,6 +23134,9 @@ https://doh.pub/dns-query
 [/8811777.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/881812c.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/8821.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -25385,6 +25388,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/962600.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/96262.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/96335.com/]https://dns.alidns.com/dns-query
@@ -105889,6 +105895,9 @@ https://doh.pub/dns-query
 [/fuchaipower.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/fuchaoqun.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/fuchen33.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -136961,6 +136970,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hlbeixiu.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/hlbf.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hlblz.com/]https://dns.alidns.com/dns-query
@@ -198694,6 +198706,9 @@ https://doh.pub/dns-query
 [/mijewelries.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/miji8.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/mijia.tech/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -213059,6 +213074,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nuomisi.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/nuona.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nuonuo.com/]https://dns.alidns.com/dns-query
@@ -244969,6 +244987,9 @@ https://doh.pub/dns-query
 [/shanhu99.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/shanhuijiangtang.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/shanhuu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -257417,6 +257438,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/starde.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/stardict.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/stardict.org/]https://dns.alidns.com/dns-query
@@ -287993,6 +288017,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/wengem.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/wengkui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/wengmeiling.com/]https://dns.alidns.com/dns-query

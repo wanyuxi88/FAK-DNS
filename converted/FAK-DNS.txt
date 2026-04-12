@@ -97863,6 +97863,9 @@ https://doh.pub/dns-query
 [/dubbing.tech/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/dubbingx.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/dubbo.io/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -207645,6 +207648,9 @@ https://doh.pub/dns-query
 [/miaodongbar.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/miaodongshenghuo.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/miaogongzi.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -240736,6 +240742,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/quba360.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/qubang.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qubaobei.com/]https://dns.alidns.com/dns-query
@@ -286950,6 +286959,9 @@ https://doh.pub/dns-query
 [/tsgks.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/tsgyun.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/tshaisen.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -332215,6 +332227,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yoogene.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/yoohe.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yoohouse.com/]https://dns.alidns.com/dns-query

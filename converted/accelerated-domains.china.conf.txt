@@ -35290,6 +35290,9 @@ https://doh.pub/dns-query
 [/aimaker.space/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/aimap.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/aimatech.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -52270,6 +52273,9 @@ https://doh.pub/dns-query
 [/bjfsali.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/bjftfy.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/bjfzst.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -63965,6 +63971,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cetkmh.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/cetsteam.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cetzig.com/]https://dns.alidns.com/dns-query
@@ -104986,6 +104995,9 @@ https://doh.pub/dns-query
 [/evtcn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/evtrust.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/evyy.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -110840,6 +110852,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/fkblog.org/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/fkbuff.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/fkcaijing.com/]https://dns.alidns.com/dns-query
@@ -144101,6 +144116,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hiwaysemi.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/hiwayslaw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hiwbb.com/]https://dns.alidns.com/dns-query
@@ -179264,6 +179282,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jxxhsd.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/jxxinzhe.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jxxnyqc.com/]https://dns.alidns.com/dns-query
@@ -278540,6 +278561,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tencentcloudcr.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/tencentcloudcs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tencentcloudga.com/]https://dns.alidns.com/dns-query

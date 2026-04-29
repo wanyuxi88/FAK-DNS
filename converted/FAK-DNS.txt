@@ -1,5 +1,434 @@
 https://dns.google/dns-query
 https://cloudflare-dns.com/dns-query
+[/265.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/2mdn-cn.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/2mdn.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/admob-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/adservice.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/app-analytics-services.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/app-measurement-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/app-measurement.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/apps5.oingo.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/avail.googleflights.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/beacons.gcp.gvt2.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/beacons.gvt2.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/beacons2.gvt2.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/beacons3.gvt2.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/c.admob.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/c.android.clients.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/c.pki.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/cache-management-prod.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/cache.pack.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/checkin.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/clickserve.cc-dt.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/clickserve.dartsearch.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/clickserver.googleads.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/clientservices.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/cn.widevine.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/cnappinstall.googleadapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/connectivitycheck.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/content.googleadapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/crashlyticsreports-pa.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/crl.pki.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/csi.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/dartsearch-cn.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/dg-meta.video.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/dl.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/dl.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/doubleclick-cn.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/doubleclick.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/download.mlcc.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/download.qatp1.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/download.tensorflow.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/emmapplecodevice.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/firebase-settings.crashlytics.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/fontfiles.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/fonts.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/fonts.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/g0.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/g1.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/g2.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/g3.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/go.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/gonglchuangl.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/gongyichuangyi.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/google-analytics-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/google-analytics.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleadservices-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleadservices.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleanalytics.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleapis-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleapps-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleflights-cn.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleoptimize-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googleoptimize.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googlesyndication-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googlesyndication.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googletagmanager-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googletagmanager.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googletagservices-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googletagservices.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googletraveladservices-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googletraveladservices.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/googlevads-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/gstatic-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/gstaticadssl.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/gtm.oasisfeng.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/gvt1-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/gvt2-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/imasdk.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/l2-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/logger-dev.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/logger.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/login.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/monitoring.qpdp1.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/ocsp.pki.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/pagead-googlehosted.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/performanceparameters.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/pki-goog.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/prod-controlbe.floonet.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/prod-databe.floonet.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/prod.databe.floonet.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/proxyconfig.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/qagpublic.qatp1.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/qgadmin.qcpp1.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/qiao-cn.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/qpx.googleflights.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/qualysapi.qatp1.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/qualysguard.qpdp1.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/r.cert.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/rapture-prod.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/recaptcha-cn.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/recaptcha.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.bdn.dev/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.c.chat.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.c.mail.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.c.pack.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.c.play.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.c.youtubeeducation.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.gcpcdn.gvt1.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.gvt1.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.offline-maps.gvt1.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.snap.gvt1.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/redirector.xn--ngstr-lra8j.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/safebrowsing-cache.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/safebrowsing.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/scanservice1.qcpp1.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/service.urchin.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/ssl-google-analytics.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/ssl.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/sslredirect.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/staging-controlbe.floonet.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/staging-databe.floonet.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/staging.databe.floonet.goog/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/streaming-uberproxy-rotation.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/streaming-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/sup-ssh-relay.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/sup-ssh-relay2.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/sup.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/sup.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/tac.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/test.gbugs-qa.chromium.org/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/tools.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/tools.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/uberproxy-debug4.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/uberproxy6.corp.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/update.crashlytics.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/update.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/wear.googleapis.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/www-google-analytics.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/www-googletagmanager.l.google.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/www.destinationurl.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/www.gstatic.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/www.pxcc.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/xn--flw351e.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/a1.mzstatic.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -501,435 +930,6 @@ https://doh.pub/dns-query
 [/xp.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/265.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/2mdn-cn.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/2mdn.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/admob-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/adservice.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/app-analytics-services.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/app-measurement-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/app-measurement.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/apps5.oingo.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/avail.googleflights.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/beacons.gcp.gvt2.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/beacons.gvt2.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/beacons2.gvt2.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/beacons3.gvt2.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/c.admob.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/c.android.clients.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/c.pki.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cache-management-prod.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cache.pack.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/checkin.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/clickserve.cc-dt.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/clickserve.dartsearch.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/clickserver.googleads.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/clientservices.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cn.widevine.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cnappinstall.googleadapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/connectivitycheck.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/content.googleadapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/crashlyticsreports-pa.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/crl.pki.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/csi.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dartsearch-cn.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dg-meta.video.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dl.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dl.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/doubleclick-cn.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/doubleclick.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/download.mlcc.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/download.qatp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/download.tensorflow.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/emmapplecodevice.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/firebase-settings.crashlytics.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/fontfiles.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/fonts.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/fonts.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/g0.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/g1.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/g2.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/g3.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/go.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gonglchuangl.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gongyichuangyi.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/google-analytics-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/google-analytics.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleadservices-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleadservices.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleanalytics.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleapis-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleapps-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleflights-cn.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleoptimize-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googleoptimize.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googlesyndication-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googlesyndication.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googletagmanager-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googletagmanager.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googletagservices-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googletagservices.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googletraveladservices-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googletraveladservices.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/googlevads-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gstatic-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gstaticadssl.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gtm.oasisfeng.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gvt1-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gvt2-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/imasdk.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/l2-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/logger-dev.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/logger.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/login.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/monitoring.qpdp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ocsp.pki.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pagead-googlehosted.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/performanceparameters.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pki-goog.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/prod-controlbe.floonet.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/prod-databe.floonet.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/prod.databe.floonet.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/proxyconfig.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qagpublic.qatp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qgadmin.qcpp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qiao-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qpx.googleflights.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qualysapi.qatp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qualysguard.qpdp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/r.cert.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/rapture-prod.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/recaptcha-cn.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/recaptcha.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.bdn.dev/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.c.chat.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.c.mail.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.c.pack.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.c.play.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.c.youtubeeducation.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.gcpcdn.gvt1.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.gvt1.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.offline-maps.gvt1.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.snap.gvt1.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/redirector.xn--ngstr-lra8j.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/safebrowsing-cache.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/safebrowsing.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/scanservice1.qcpp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/service.urchin.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ssl-google-analytics.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ssl.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sslredirect.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/staging-controlbe.floonet.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/staging-databe.floonet.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/staging.databe.floonet.goog/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/streaming-uberproxy-rotation.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/streaming-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup-ssh-relay.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup-ssh-relay2.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tac.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/test.gbugs-qa.chromium.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tools.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tools.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uberproxy-debug4.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uberproxy6.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/update.crashlytics.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/update.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/wear.googleapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/www-google-analytics.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/www-googletagmanager.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/www.destinationurl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/www.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/www.pxcc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xn--flw351e.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -1120,9 +1120,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/001daima.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/001fzc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/001jm.com/]https://dns.alidns.com/dns-query
@@ -1612,9 +1609,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/01jzw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/01ki.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/01p.com/]https://dns.alidns.com/dns-query
@@ -2673,9 +2667,6 @@ https://doh.pub/dns-query
 [/05148.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/0514gcw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/051591.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -3048,9 +3039,6 @@ https://doh.pub/dns-query
 [/0592ui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/0592xl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/0594.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -3289,9 +3277,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/06ps.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/06tn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/06z8mzlma.xin/]https://dns.alidns.com/dns-query
@@ -3576,9 +3561,6 @@ https://doh.pub/dns-query
 [/0756tong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/0756zx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/0757fc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -3778,9 +3760,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/0792jj.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/0792ju.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/0792lsly.com/]https://dns.alidns.com/dns-query
@@ -4206,16 +4185,10 @@ https://doh.pub/dns-query
 [/0991dj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/0991net.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/0992.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/09946.center/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/09948.xin/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/099913.com/]https://dns.alidns.com/dns-query
@@ -6870,9 +6843,6 @@ https://doh.pub/dns-query
 [/1356789.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/1357vip.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/135958.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -8526,9 +8496,6 @@ https://doh.pub/dns-query
 [/17pw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/17python.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/17qcc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -8908,9 +8875,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/1860sf.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/1866.tv/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/18665348887.com/]https://dns.alidns.com/dns-query
@@ -9963,9 +9927,6 @@ https://doh.pub/dns-query
 [/1x3x.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/1xbet88.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/1xinzulin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -10045,9 +10006,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/1zu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/2-33.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/2-class.com/]https://dns.alidns.com/dns-query
@@ -10171,9 +10129,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/2016win10.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/20170228.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/20171117.com/]https://dns.alidns.com/dns-query
@@ -10584,9 +10539,6 @@ https://doh.pub/dns-query
 [/21ido.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/21jiao.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/21jingji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -10777,9 +10729,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/222579.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/222abc999abc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/222bz.com/]https://dns.alidns.com/dns-query
@@ -11046,9 +10995,6 @@ https://doh.pub/dns-query
 [/2345download.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/2345ff.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/2345ii.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -11206,9 +11152,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/23zw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/240yx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/24198ef3f855c8ff.com/]https://dns.alidns.com/dns-query
@@ -11442,9 +11385,6 @@ https://doh.pub/dns-query
 [/25pp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/25pyg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/25q7ekcc67.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -11485,9 +11425,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/26210.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/2628liao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/2629.com/]https://dns.alidns.com/dns-query
@@ -11655,9 +11592,6 @@ https://doh.pub/dns-query
 [/2743b3ed63ebb546.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/27492.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/275.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -11713,9 +11647,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/28.bet/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/28.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/281010.com/]https://dns.alidns.com/dns-query
@@ -13638,9 +13569,6 @@ https://doh.pub/dns-query
 [/360doc1.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/360doc18.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/360doc2.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -14082,9 +14010,6 @@ https://doh.pub/dns-query
 [/364000.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/36476.work/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/365.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -14403,9 +14328,6 @@ https://doh.pub/dns-query
 [/366300.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/366666.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/36683.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -14527,9 +14449,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/36rv3j3.shop/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/36tw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/36ve.net/]https://dns.alidns.com/dns-query
@@ -14812,9 +14731,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/3839video.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/383k.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/383yun.com/]https://dns.alidns.com/dns-query
@@ -15147,9 +15063,6 @@ https://doh.pub/dns-query
 [/3chongmen.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/3cjob.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/3conline.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -15225,9 +15138,6 @@ https://doh.pub/dns-query
 [/3ded4c0f310311.beer/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/3dfcs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/3dgali.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -15253,9 +15163,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/3dllc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/3dly.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/3dmaxvip.com/]https://dns.alidns.com/dns-query
@@ -15769,9 +15676,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/3vjuyuan.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/3vsheji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/3wcoffee.com/]https://dns.alidns.com/dns-query
@@ -16623,9 +16527,6 @@ https://doh.pub/dns-query
 [/455522.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/45560ll.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/45575.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -16842,9 +16743,6 @@ https://doh.pub/dns-query
 [/48267.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/48455m.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/4846.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -16969,9 +16867,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/49ko.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/49ms.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/49pic.com/]https://dns.alidns.com/dns-query
@@ -17895,9 +17790,6 @@ https://doh.pub/dns-query
 [/51aspx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/51auto.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/51autocar.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -18064,9 +17956,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/51cmm.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/51cnhr.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/51cocoa.com/]https://dns.alidns.com/dns-query
@@ -19110,9 +18999,6 @@ https://doh.pub/dns-query
 [/51sytx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/51szhk.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/51taifu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -19285,9 +19171,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/51w.co/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/51wangdai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/51wangming.com/]https://dns.alidns.com/dns-query
@@ -19536,9 +19419,6 @@ https://doh.pub/dns-query
 [/51zd.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/51zghbh.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/51zhangdan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -19768,9 +19648,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/521qw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/521u.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/521up.com/]https://dns.alidns.com/dns-query
@@ -20271,9 +20148,6 @@ https://doh.pub/dns-query
 [/52met.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/52mhw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/52miji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -20347,9 +20221,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/52ppt.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/52qixiang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/52qmct.com/]https://dns.alidns.com/dns-query
@@ -20488,9 +20359,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/52wanh5.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/52wenku.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/52wlw.com/]https://dns.alidns.com/dns-query
@@ -24030,9 +23898,6 @@ https://doh.pub/dns-query
 [/66in.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/66jiedai.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/66l.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -24199,9 +24064,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/6789.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/6789che.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/6789g.com/]https://dns.alidns.com/dns-query
@@ -25125,9 +24987,6 @@ https://doh.pub/dns-query
 [/717down.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/718991.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/71908.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -25264,9 +25123,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/721888.xyz/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/72242s.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/72257c.com/]https://dns.alidns.com/dns-query
@@ -26361,9 +26217,6 @@ https://doh.pub/dns-query
 [/7cnv.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/7cv.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/7cxk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -26779,9 +26632,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/7z4bz6e2cp.world/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/7zgame.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/7zhan.com/]https://dns.alidns.com/dns-query
@@ -27207,9 +27057,6 @@ https://doh.pub/dns-query
 [/8188.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/818cq.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/818it.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -27492,9 +27339,6 @@ https://doh.pub/dns-query
 [/83990567.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/83edu.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/83h87d.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -27570,9 +27414,6 @@ https://doh.pub/dns-query
 [/84d8388721016.beer/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/84ju.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/84ke.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -27589,9 +27430,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/850718.xyz/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/8521.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/85229666.com/]https://dns.alidns.com/dns-query
@@ -27906,9 +27744,6 @@ https://doh.pub/dns-query
 [/87161.vip/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/871659.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/87188718.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -28168,9 +28003,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/8868.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/88682089.app/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/8868a16.app/]https://dns.alidns.com/dns-query
@@ -28800,9 +28632,6 @@ https://doh.pub/dns-query
 [/8s123.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/8shop.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/8so.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -28849,9 +28678,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/8wss.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/8wym.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/8x5vviy4r2.com/]https://dns.alidns.com/dns-query
@@ -29325,9 +29151,6 @@ https://doh.pub/dns-query
 [/91es.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/91exam.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/91exiu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -29712,9 +29535,6 @@ https://doh.pub/dns-query
 [/91xinshang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/91xjcs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/91xsj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -30090,9 +29910,6 @@ https://doh.pub/dns-query
 [/93966.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/93977v.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/93984.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -30172,9 +29989,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/94117.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/941adu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/941gb.com/]https://dns.alidns.com/dns-query
@@ -30742,9 +30556,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/96ac893dd11011.beer/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/96b25c0edb71ca11.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/96caifu.com/]https://dns.alidns.com/dns-query
@@ -31836,9 +31647,6 @@ https://doh.pub/dns-query
 [/9douyu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/9dreams.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/9droom.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -32742,9 +32550,6 @@ https://doh.pub/dns-query
 [/aavisa.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/aawvw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/aaxinwen.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -32770,9 +32575,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ab173.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ab1989.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ab365.com/]https://dns.alidns.com/dns-query
@@ -35829,9 +35631,6 @@ https://doh.pub/dns-query
 [/aidoczh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/aidog.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/aidong-ai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -35950,9 +35749,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/aifabu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/aifacelab.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/aifamu.com/]https://dns.alidns.com/dns-query
@@ -36591,9 +36387,6 @@ https://doh.pub/dns-query
 [/aiqiyicloud.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/aiqiyivip.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/aiqle.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -37032,9 +36825,6 @@ https://doh.pub/dns-query
 [/aiwanma99.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/aiwatchs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/aiwebsec.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -37057,9 +36847,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/aiworkspace.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/aiwuzhou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/aiww.com/]https://dns.alidns.com/dns-query
@@ -37335,9 +37122,6 @@ https://doh.pub/dns-query
 [/ajedu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ajfcxx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ajgts.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -37432,9 +37216,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ak03150hou.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ak03211hou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ak03220hou.com/]https://dns.alidns.com/dns-query
@@ -38217,9 +37998,6 @@ https://doh.pub/dns-query
 [/aliwd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/aliwears.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/aliwork.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -38760,9 +38538,6 @@ https://doh.pub/dns-query
 [/allfootballapp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/allfunnies.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/allgamesky.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -39115,9 +38890,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/amberhotelsgroup.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/amberknit.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ambier.net/]https://dns.alidns.com/dns-query
@@ -40038,9 +39810,6 @@ https://doh.pub/dns-query
 [/anpsk.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/anpu119.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/anpuzx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -40428,9 +40197,6 @@ https://doh.pub/dns-query
 [/anxunshihui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/any123.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/any8.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -40615,9 +40381,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/anzogame.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/anzow.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ao-di.com/]https://dns.alidns.com/dns-query
@@ -40828,9 +40591,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/aopayun.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/aoqiangtc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/aorankj.com/]https://dns.alidns.com/dns-query
@@ -41332,9 +41092,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/apme-magnetics.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/apmengfan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/apmgmedical.com/]https://dns.alidns.com/dns-query
@@ -42924,9 +42681,6 @@ https://doh.pub/dns-query
 [/asterfusion.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/asteriavs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/astestech.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -42973,9 +42727,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/asurada.zone/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/asus-sh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/asussmart.com/]https://dns.alidns.com/dns-query
@@ -44466,9 +44217,6 @@ https://doh.pub/dns-query
 [/axiba66.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/axic6906.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/axilone-shunhua.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -44490,13 +44238,7 @@ https://doh.pub/dns-query
 [/axmro.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/axmw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/axnsc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/axoij.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/axon-assets-cdn.razerzone.com/]https://dns.alidns.com/dns-query
@@ -44668,9 +44410,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ayrbs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ayrc.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ayrc.net/]https://dns.alidns.com/dns-query
@@ -45040,9 +44779,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/b3b97f52c55246d7.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/b3inside.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/b3logfile.com/]https://dns.alidns.com/dns-query
@@ -45579,9 +45315,6 @@ https://doh.pub/dns-query
 [/baidao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/baideled.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/baidenafu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -45705,9 +45438,6 @@ https://doh.pub/dns-query
 [/baidupcs.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/baidupeixun.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/baidusmartapps.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -45736,9 +45466,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/baiduwebgame.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/baiduwpan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/baiduxiaodai.com/]https://dns.alidns.com/dns-query
@@ -46356,9 +46083,6 @@ https://doh.pub/dns-query
 [/baixiangfood.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/baixiangnews.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/baixiaosheng.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -46407,9 +46131,6 @@ https://doh.pub/dns-query
 [/baiyi.shop/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/baiyi181.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/baiyiba.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -46455,9 +46176,6 @@ https://doh.pub/dns-query
 [/baiyunholding.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/baiyunhuojia.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/baiyunmh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -46498,9 +46216,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bajie1.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bajiebofang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bajiexinxi.net/]https://dns.alidns.com/dns-query
@@ -47112,9 +46827,6 @@ https://doh.pub/dns-query
 [/bao265.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/bao315.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/bao369.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -47520,9 +47232,6 @@ https://doh.pub/dns-query
 [/baoxian72.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/baoxianhai.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/baoxianjie.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -47824,9 +47533,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bawu.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/baxiami.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/baxichina.com/]https://dns.alidns.com/dns-query
@@ -48234,9 +47940,6 @@ https://doh.pub/dns-query
 [/bbwport.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/bbwrc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/bbwse.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -48615,9 +48318,6 @@ https://doh.pub/dns-query
 [/bdgp.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/bdgqx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/bdgslb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -48703,9 +48403,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bdqn666.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bdqnwh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bds-cn.com/]https://dns.alidns.com/dns-query
@@ -48856,9 +48553,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bdysites.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bdyz.xyz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bdzhipin.com/]https://dns.alidns.com/dns-query
@@ -50385,9 +50079,6 @@ https://doh.pub/dns-query
 [/bfchayuan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/bfcmovie.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/bfdcloud.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -50545,9 +50236,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bgmfans.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bgmrecord.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bgnyl.com/]https://dns.alidns.com/dns-query
@@ -51019,9 +50707,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bianxianwu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bianxiazai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bianyifang.com/]https://dns.alidns.com/dns-query
@@ -52452,9 +52137,6 @@ https://doh.pub/dns-query
 [/bitcron.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/bitdave.fun/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/bitdefender-cn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -52696,9 +52378,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bizcharts.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bizcn-test.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bizcn.com/]https://dns.alidns.com/dns-query
@@ -53755,9 +53434,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bjnaxl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bjnhsw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bjnja.com/]https://dns.alidns.com/dns-query
@@ -55389,9 +55065,6 @@ https://doh.pub/dns-query
 [/bnchina.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/bncp.xyz/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/bncwork.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -55932,9 +55605,6 @@ https://doh.pub/dns-query
 [/boltp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/boluogouwu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/boluomee.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -56407,9 +56077,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bossco.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bosscome.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bossgoo.com/]https://dns.alidns.com/dns-query
@@ -57336,9 +57003,6 @@ https://doh.pub/dns-query
 [/bsyyjt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/bsz666.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/bszhly.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -57346,9 +57010,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/bszxtl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/bszyqc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/bt-club.com/]https://dns.alidns.com/dns-query
@@ -57781,9 +57442,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/buildwaterexpo.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/buka365.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/buke999.com/]https://dns.alidns.com/dns-query
@@ -58360,6 +58018,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/byefy.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/byering.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/byf.com/]https://dns.alidns.com/dns-query
@@ -59673,9 +59334,6 @@ https://doh.pub/dns-query
 [/cacakp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cacc-sf.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cacfo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -60204,9 +59862,6 @@ https://doh.pub/dns-query
 [/caituyou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/caiu8.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/caiwan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -60604,9 +60259,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/canonpumps.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/canpdu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/canpoint.net/]https://dns.alidns.com/dns-query
@@ -61134,9 +60786,6 @@ https://doh.pub/dns-query
 [/cas01.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/casarocinante.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/casarte.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -61449,9 +61098,6 @@ https://doh.pub/dns-query
 [/cbcloud123.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cbcsnote.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cbcuri.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -61612,9 +61258,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cbvac.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cbvvt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cbxs.net/]https://dns.alidns.com/dns-query
@@ -62770,9 +62413,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ccybeta.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ccydkj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ccygmy.com/]https://dns.alidns.com/dns-query
@@ -64827,9 +64467,6 @@ https://doh.pub/dns-query
 [/cetcio.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cetcmotor.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cetcssi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -65124,9 +64761,6 @@ https://doh.pub/dns-query
 [/cfxyfsyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cfxyjy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cfyedu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -65284,9 +64918,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cglw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cglzw.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cgmama.com/]https://dns.alidns.com/dns-query
@@ -67140,9 +66771,6 @@ https://doh.pub/dns-query
 [/chengxiangzhineng.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/chengxiaoliu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/chengxingjicj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -67249,9 +66877,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/chenmingpaper.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/chenmomo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/chennianyoupin.com/]https://dns.alidns.com/dns-query
@@ -68512,9 +68137,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/china.mintel.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/china000799.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/china001.com/]https://dns.alidns.com/dns-query
@@ -72372,9 +71994,6 @@ https://doh.pub/dns-query
 [/chuguohao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/chuguoqu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/chuhai.group/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -72658,9 +72277,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/chxyq.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/chyitech.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/chysoft.net/]https://dns.alidns.com/dns-query
@@ -73170,9 +72786,6 @@ https://doh.pub/dns-query
 [/cipunited.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/circday.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/circleharmonyhealth.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -73420,9 +73033,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ciunofor.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/civicswarm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/civigas.com/]https://dns.alidns.com/dns-query
@@ -74964,9 +74574,6 @@ https://doh.pub/dns-query
 [/clzd.fun/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/clzqm.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/clzqxp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -75801,9 +75408,6 @@ https://doh.pub/dns-query
 [/cnaaa6.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cnaaa8.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cnaaa9.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -76179,9 +75783,6 @@ https://doh.pub/dns-query
 [/cncn.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cncnbd.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cncncn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -76294,9 +75895,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cndesign.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cndesk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cndezhong.com/]https://dns.alidns.com/dns-query
@@ -76515,9 +76113,6 @@ https://doh.pub/dns-query
 [/cnfcyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cnfczn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cnfczy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -76654,9 +76249,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cngin.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cngjtx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cngma.com/]https://dns.alidns.com/dns-query
@@ -76864,9 +76456,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cnhzsc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cnhzz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cniao5.com/]https://dns.alidns.com/dns-query
@@ -78351,9 +77940,6 @@ https://doh.pub/dns-query
 [/cnywinfo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cnyydj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cnzcn.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -79704,9 +79290,6 @@ https://doh.pub/dns-query
 [/coolook.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/coolool.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/coolpad.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -80548,9 +80131,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cqaky.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cqallcure.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cqange.com/]https://dns.alidns.com/dns-query
@@ -81486,9 +81066,6 @@ https://doh.pub/dns-query
 [/cqmiaoa.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cqmiaochi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cqminghua.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -82144,9 +81721,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cqxjr.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cqxm-group.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cqxnyy.com/]https://dns.alidns.com/dns-query
@@ -84234,9 +83808,6 @@ https://doh.pub/dns-query
 [/cthj-co.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cthuwork.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cthuwork.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -84472,9 +84043,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ctuaa.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ctv56.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ctvpost.com/]https://dns.alidns.com/dns-query
@@ -84766,9 +84334,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cuopen.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cuoss.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cuour-edu.com/]https://dns.alidns.com/dns-query
@@ -85443,9 +85008,6 @@ https://doh.pub/dns-query
 [/cyctapp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cyd5918.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/cydiaa.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -85612,9 +85174,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cyqyfyxh.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cyr168.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cyruc.com/]https://dns.alidns.com/dns-query
@@ -86095,9 +85654,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/cztaojiu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/cztour.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/cztrjs.com/]https://dns.alidns.com/dns-query
@@ -86971,6 +86527,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dahetest.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/dahhxxttxs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/dahongba.net/]https://dns.alidns.com/dns-query
@@ -87895,9 +87454,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dao42.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dao50.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/daoapp.io/]https://dns.alidns.com/dns-query
@@ -88927,9 +88483,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/daza168.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dazanggui.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/dazhangfang.com/]https://dns.alidns.com/dns-query
@@ -91452,9 +91005,6 @@ https://doh.pub/dns-query
 [/dgouyijiance.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/dgovp.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/dgozp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -92760,9 +92310,6 @@ https://doh.pub/dns-query
 [/dilidili.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/diliy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/dima-industry.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -93856,9 +93403,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dldm.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dle-news.xyz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/dledu.com/]https://dns.alidns.com/dns-query
@@ -95274,9 +94818,6 @@ https://doh.pub/dns-query
 [/dongcheyun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/dongchuangipr.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/dongchuanmin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -95431,9 +94972,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dongjiaotn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dongjiax.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/dongjin-cn.com/]https://dns.alidns.com/dns-query
@@ -95710,9 +95248,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/donper.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dontfar.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/donvv.com/]https://dns.alidns.com/dns-query
@@ -96042,9 +95577,6 @@ https://doh.pub/dns-query
 [/douhua.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/douhuameiquan.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/douhuawenxue.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -96126,9 +95658,6 @@ https://doh.pub/dns-query
 [/doutianshequ.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/doutub.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/doutuimao.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -96151,9 +95680,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/douyabo.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/douyacun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/douyadaili.com/]https://dns.alidns.com/dns-query
@@ -96250,9 +95776,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/douyuscdn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/douyushepin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/douyutv.com/]https://dns.alidns.com/dns-query
@@ -96735,9 +96258,6 @@ https://doh.pub/dns-query
 [/dragontrail.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/dragontsc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/dragonwell-jdk.io/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -97011,9 +96531,6 @@ https://doh.pub/dns-query
 [/drupalla.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/drupalproject.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/drvceo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -97117,9 +96634,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dslr120.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dslrpark.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/dslt.tech/]https://dns.alidns.com/dns-query
@@ -97435,9 +96949,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/duanmale.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/duanmeiwen.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/duanqu.com/]https://dns.alidns.com/dns-query
@@ -98469,9 +97980,6 @@ https://doh.pub/dns-query
 [/dwmoniqi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/dwntme.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/dwoke.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -98569,9 +98077,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dxf6.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dxfbk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/dxfblog.com/]https://dns.alidns.com/dns-query
@@ -98752,9 +98257,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dxzanzhu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/dxzhz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/dxzk88.com/]https://dns.alidns.com/dns-query
@@ -100545,9 +100047,6 @@ https://doh.pub/dns-query
 [/eavic.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/eawh.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/eaydu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -101814,9 +101313,6 @@ https://doh.pub/dns-query
 [/ee409d6370bfc826.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ee45560.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ee68.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -102253,9 +101749,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/egsea.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/egshuyuan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/egsssy.com/]https://dns.alidns.com/dns-query
@@ -102696,9 +102189,6 @@ https://doh.pub/dns-query
 [/ekingtopwood.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ekoooo.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/eks0451.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -102735,9 +102225,6 @@ https://doh.pub/dns-query
 [/elaiter.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/elameyal.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/elane.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -102763,9 +102250,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/eldamu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/eldawa.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ele.me/]https://dns.alidns.com/dns-query
@@ -104428,9 +103912,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ert7.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/erthb.online/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ertmineq.com/]https://dns.alidns.com/dns-query
@@ -106402,9 +105883,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ezzls.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ezzxw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/f-0.cc/]https://dns.alidns.com/dns-query
@@ -108495,9 +107973,6 @@ https://doh.pub/dns-query
 [/fd-capital.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/fd-trust.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/fd-yy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -110067,9 +109542,6 @@ https://doh.pub/dns-query
 [/fghi34.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/fgi90.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/fgidna.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -110707,9 +110179,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/fit-start.co/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/fit120.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/fit2cloud.com/]https://dns.alidns.com/dns-query
@@ -111864,9 +111333,6 @@ https://doh.pub/dns-query
 [/fm6w.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/fm875.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/fm918.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -112248,9 +111714,6 @@ https://doh.pub/dns-query
 [/foodmate.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/foodqs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/foods1.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -112345,9 +111808,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/forcemz.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/forcger.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/forcloudcdn.com/]https://dns.alidns.com/dns-query
@@ -112507,9 +111967,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/forwell-parking.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/foryone.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/foryou56.com/]https://dns.alidns.com/dns-query
@@ -112870,9 +112327,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/fqworld.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/fqxdw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/fqxs.org/]https://dns.alidns.com/dns-query
@@ -114843,9 +114297,6 @@ https://doh.pub/dns-query
 [/fxkedu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/fxkjnj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/fxlbb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -115245,9 +114696,6 @@ https://doh.pub/dns-query
 [/fywip.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/fywx.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/fyxhlink.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -115558,9 +115006,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/g-digital4ud.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/g-film.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/g-hi.com/]https://dns.alidns.com/dns-query
@@ -115953,9 +115398,6 @@ https://doh.pub/dns-query
 [/gamdream.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/game-as.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/game-client.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -115987,9 +115429,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/game3vs7novel.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/game499.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/game5.com/]https://dns.alidns.com/dns-query
@@ -116436,9 +115875,6 @@ https://doh.pub/dns-query
 [/ganyu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ganyu.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ganyu8.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -116871,9 +116307,6 @@ https://doh.pub/dns-query
 [/gara.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/garage-bastide.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gardencn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -116962,9 +116395,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gateweb3.io/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gather-dns.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gator.deploy.akamai.com/]https://dns.alidns.com/dns-query
@@ -118246,9 +117676,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gdrc360.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gdrc365.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gdrcu.com/]https://dns.alidns.com/dns-query
@@ -120024,9 +119451,6 @@ https://doh.pub/dns-query
 [/gfvip05am.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gfvip06ae.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gfvip07ab.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -120501,9 +119925,6 @@ https://doh.pub/dns-query
 [/ghmd448.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ghmisnet.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gho5.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -120942,9 +120363,6 @@ https://doh.pub/dns-query
 [/gitsea.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gitshell.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gitv.tv/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -121063,9 +120481,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gjtmu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gjtool.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gjtt.net/]https://dns.alidns.com/dns-query
@@ -121488,9 +120903,6 @@ https://doh.pub/dns-query
 [/glhcjs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/glhckj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/glhclv-kool.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -121531,9 +120943,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/glhycy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/glhygjlxs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/glhzhotel.com/]https://dns.alidns.com/dns-query
@@ -121639,9 +121048,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gllshan.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gllstz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/glludiyan.com/]https://dns.alidns.com/dns-query
@@ -122448,9 +121854,6 @@ https://doh.pub/dns-query
 [/gnzad.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gnzrk.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/go-admin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -122505,9 +121908,6 @@ https://doh.pub/dns-query
 [/goapk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gobanma.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gobasearcher.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -122539,9 +121939,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gocea.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/goceshi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/goclee.com/]https://dns.alidns.com/dns-query
@@ -122584,9 +121981,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/godida.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/godlu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/godo.pub/]https://dns.alidns.com/dns-query
@@ -123057,9 +122451,6 @@ https://doh.pub/dns-query
 [/gongkong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gongkong001.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gongkongbpo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -123340,9 +122731,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/goodjob100.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/goodk88.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/goodkejian.com/]https://dns.alidns.com/dns-query
@@ -123819,9 +123207,6 @@ https://doh.pub/dns-query
 [/govisionox.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/govjc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/govmade.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -124065,9 +123450,6 @@ https://doh.pub/dns-query
 [/gpxzw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gpyck.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gpydxl.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -124252,9 +123634,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/grchina.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/grcwzx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/great-future.com/]https://dns.alidns.com/dns-query
@@ -124923,9 +124302,6 @@ https://doh.pub/dns-query
 [/gsx009.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gsxb.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gsxcdn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -125125,9 +124501,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gtjazg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gtjgzt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gtjiaoyu.com/]https://dns.alidns.com/dns-query
@@ -125691,9 +125064,6 @@ https://doh.pub/dns-query
 [/guangwei.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/guangxi910.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/guangxibiaoxie.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -126154,9 +125524,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/guichuxing.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/guidecari.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/guidechem.com/]https://dns.alidns.com/dns-query
@@ -127990,9 +127357,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gxcxyx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gxcyaq.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gxcyhjt168.com/]https://dns.alidns.com/dns-query
@@ -130200,9 +129564,6 @@ https://doh.pub/dns-query
 [/gxllsw888.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gxllxl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gxlmjt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -131581,9 +130942,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gxtongji.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gxtongtai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gxtongzhu.com/]https://dns.alidns.com/dns-query
@@ -133023,9 +132381,6 @@ https://doh.pub/dns-query
 [/gykqyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gylcxo.xyz/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gyljc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -133155,9 +132510,6 @@ https://doh.pub/dns-query
 [/gyurt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/gywlhypt.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/gywxedu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -133237,9 +132589,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gz-gree.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gz-haohushan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gz-hipower.com/]https://dns.alidns.com/dns-query
@@ -133333,9 +132682,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/gz4u.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/gz51la.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gz528.com/]https://dns.alidns.com/dns-query
@@ -135159,9 +134505,6 @@ https://doh.pub/dns-query
 [/h3yun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/h4088.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/h4sud3rr4pmu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -136068,9 +135411,6 @@ https://doh.pub/dns-query
 [/hairxmf.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hairycrabs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/haisco.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -136243,9 +135583,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/haiwu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/haixiachina.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/haixiangkuajing.com/]https://dns.alidns.com/dns-query
@@ -137043,9 +136380,6 @@ https://doh.pub/dns-query
 [/hanweimetal.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hanwenzhongyi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hanximeng.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -137500,9 +136834,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/haohanstar.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/haohao8888.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/haohaodoc.com/]https://dns.alidns.com/dns-query
@@ -137964,9 +137295,6 @@ https://doh.pub/dns-query
 [/haotui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/haotyn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/haouc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -138301,9 +137629,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/happymmall.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/happynic.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/happypingpang.com/]https://dns.alidns.com/dns-query
@@ -139746,9 +139071,6 @@ https://doh.pub/dns-query
 [/hbxyjob.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hbxytc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hbyangyuan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -139780,9 +139102,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hbylzx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hbymfswz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hbynet.net/]https://dns.alidns.com/dns-query
@@ -140145,9 +139464,6 @@ https://doh.pub/dns-query
 [/hcty.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hctzbj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hcvac.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -140205,13 +139521,7 @@ https://doh.pub/dns-query
 [/hczc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hczfgjj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hczl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hczm1.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hczq.com/]https://dns.alidns.com/dns-query
@@ -140628,9 +139938,6 @@ https://doh.pub/dns-query
 [/he17.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/he1j.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/he29.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -140710,9 +140017,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/healzentx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/heanyo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hearfly.com/]https://dns.alidns.com/dns-query
@@ -140932,9 +140236,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hebwlfdc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hebxakj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hebxyjt.com/]https://dns.alidns.com/dns-query
@@ -141168,9 +140469,6 @@ https://doh.pub/dns-query
 [/heicheng51.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/heidaren.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/heidiankeji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -141229,9 +140527,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/heimac.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/heimadao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/heimadata.com/]https://dns.alidns.com/dns-query
@@ -141741,9 +141036,6 @@ https://doh.pub/dns-query
 [/heng-f.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/heng98.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hengan-instruments.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -142225,9 +141517,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hetaodaxue.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hetaointernal.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hetaolin.com/]https://dns.alidns.com/dns-query
@@ -143163,9 +142452,6 @@ https://doh.pub/dns-query
 [/hhdglm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hhdjc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hhdna.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -143383,9 +142669,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hhzyjng.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hi-54.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hi-books.com/]https://dns.alidns.com/dns-query
@@ -143704,9 +142987,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/high20-playback.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/high22-playback.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/high25-playback.com/]https://dns.alidns.com/dns-query
@@ -146067,9 +145347,6 @@ https://doh.pub/dns-query
 [/hnmrffm888.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hnmsg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hnmsw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -146110,9 +145387,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hnnyrzzl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hnnzwhyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hnoceanrace.com/]https://dns.alidns.com/dns-query
@@ -146341,9 +145615,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hnst.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hnstandards.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hnster.com/]https://dns.alidns.com/dns-query
@@ -146617,9 +145888,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hnytgt.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hnyuanhong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hnyuanyou.com/]https://dns.alidns.com/dns-query
@@ -147465,9 +146733,6 @@ https://doh.pub/dns-query
 [/hongta.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hongtaijixie.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hongtair.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -147589,9 +146854,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hongyi5.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hongyikun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hongyimarine.com/]https://dns.alidns.com/dns-query
@@ -148131,9 +147393,6 @@ https://doh.pub/dns-query
 [/hotiis.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hotkey123.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hotkidclub.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -148231,6 +147490,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/houdask.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/houdegame.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/houdewl.com/]https://dns.alidns.com/dns-query
@@ -148543,9 +147805,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hq114.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hq88.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hqbd.com/]https://dns.alidns.com/dns-query
@@ -150684,9 +149943,6 @@ https://doh.pub/dns-query
 [/huangyuehe.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/huangyuhui.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/huangyunkun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -151356,9 +150612,6 @@ https://doh.pub/dns-query
 [/huaxiapawn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/huaxiashiwen.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/huaxiasz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -151549,9 +150802,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/huazhanggroup.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/huazhanwire.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/huazhen-gs.com/]https://dns.alidns.com/dns-query
@@ -153900,9 +153150,6 @@ https://doh.pub/dns-query
 [/hwxc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/hwxda.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/hwxfc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -154087,9 +153334,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hxgs.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hxgwott.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hxhaoyu.com/]https://dns.alidns.com/dns-query
@@ -154978,9 +154222,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/hyxrmt.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/hyxsoft.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/hyxt.com/]https://dns.alidns.com/dns-query
@@ -156507,9 +155748,6 @@ https://doh.pub/dns-query
 [/i-lewan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/i-lu.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/i-m.dev/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -156607,9 +155845,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/i0469.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/i0734.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/i0746.com/]https://dns.alidns.com/dns-query
@@ -156823,9 +156058,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/iadmore.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/iadpush.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/iadtracker.com/]https://dns.alidns.com/dns-query
@@ -158883,9 +158115,6 @@ https://doh.pub/dns-query
 [/if1f.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ifabao.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ifabiao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -159495,9 +158724,6 @@ https://doh.pub/dns-query
 [/ihenda.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ihengheng.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ihepa.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -159583,9 +158809,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ihtmlcss.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ihtwmi.yachts/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ihuaben.com/]https://dns.alidns.com/dns-query
@@ -160302,9 +159525,6 @@ https://doh.pub/dns-query
 [/ilongre.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ilongterm.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/iloveanan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -160627,9 +159847,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/imeidb.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/imeihei.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/imeimama.com/]https://dns.alidns.com/dns-query
@@ -163473,9 +162690,6 @@ https://doh.pub/dns-query
 [/ishugui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ishuirong.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ishuiyun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -163666,9 +162880,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/isoyu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/isozhijia.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/isp.cx/]https://dns.alidns.com/dns-query
@@ -164094,9 +163305,6 @@ https://doh.pub/dns-query
 [/itfeed.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/itfenghui.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/itfly.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -164481,9 +163689,6 @@ https://doh.pub/dns-query
 [/itutu.tv/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ituu.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ituun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -164605,9 +163810,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/iuni.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/iunv.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/iuoooo.com/]https://dns.alidns.com/dns-query
@@ -165939,12 +165141,6 @@ https://doh.pub/dns-query
 [/jbjdgroup.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jbjw.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jbknx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jblogistics.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -166746,9 +165942,6 @@ https://doh.pub/dns-query
 [/jdhyplay.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jdianfei.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jdindustry.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -167337,9 +166530,6 @@ https://doh.pub/dns-query
 [/jfinfo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jfj3419.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jfjt.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -167709,9 +166899,6 @@ https://doh.pub/dns-query
 [/jhwdp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jhwvjjw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jhxcms.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -168030,9 +167217,6 @@ https://doh.pub/dns-query
 [/jiakelai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jiakexs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jialanling.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -168091,9 +167275,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jiamens.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jiami110.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jiamiantech.com/]https://dns.alidns.com/dns-query
@@ -168613,9 +167794,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jianqiyl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jianran360.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jianshe99.com/]https://dns.alidns.com/dns-query
@@ -170250,9 +169428,6 @@ https://doh.pub/dns-query
 [/jingdaka.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jingdapcb.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jingdata.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -170718,9 +169893,6 @@ https://doh.pub/dns-query
 [/jingzhusz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jingzong.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jinhaigroup.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -170749,9 +169921,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jinhonggroup.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jinhongnl.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jinhu.me/]https://dns.alidns.com/dns-query
@@ -170791,9 +169960,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jiningcoal.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jiningjj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jiniu.work/]https://dns.alidns.com/dns-query
@@ -171081,9 +170247,6 @@ https://doh.pub/dns-query
 [/jinriguanzhu.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jinrilife.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jinriningxiang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -171301,9 +170464,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jintouwangdai.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jintuituiapp88.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jinwaimai.com/]https://dns.alidns.com/dns-query
@@ -172314,9 +171474,6 @@ https://doh.pub/dns-query
 [/jiyouwang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jiyouzhan.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jiyuantour.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -172725,9 +171882,6 @@ https://doh.pub/dns-query
 [/jk-bms.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jk-px.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -172834,9 +171988,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jkllbd.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jklsjm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jklughj.work/]https://dns.alidns.com/dns-query
@@ -173863,9 +173014,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jnzongchi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jnzwgzs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jnzx.cc/]https://dns.alidns.com/dns-query
@@ -174949,9 +174097,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jrs-yc-hupu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jrsncn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jrss.com/]https://dns.alidns.com/dns-query
@@ -176041,9 +175186,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jsnydsfy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jsnzhb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jsocr.com/]https://dns.alidns.com/dns-query
@@ -177267,9 +176409,6 @@ https://doh.pub/dns-query
 [/jufenginfo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/jufengshang.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/jufengwuxi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -177349,9 +176488,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/juij.fun/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/juiju.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/juj66.com/]https://dns.alidns.com/dns-query
@@ -177664,9 +176800,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/junezx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/junfalipin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/junfull.com/]https://dns.alidns.com/dns-query
@@ -178456,9 +177589,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jxbhwl.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/jxbinhong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jxbond.com/]https://dns.alidns.com/dns-query
@@ -180481,9 +179611,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/kamisamak.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/kamitemall.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/kammtown.com/]https://dns.alidns.com/dns-query
@@ -183348,9 +182475,6 @@ https://doh.pub/dns-query
 [/kjjxjy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/kjjzm.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/kjkd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -184623,9 +183747,6 @@ https://doh.pub/dns-query
 [/kplanet.vip/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/kpmqg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/kppcsem.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -184902,9 +184023,6 @@ https://doh.pub/dns-query
 [/kseibitools.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ksense.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ksfang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -184954,9 +184072,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ksmend.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ksmiai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ksmingl.com/]https://dns.alidns.com/dns-query
@@ -187797,9 +186912,6 @@ https://doh.pub/dns-query
 [/langjian.work/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/langkaiwenhua.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/langkawipower.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -189300,9 +188412,6 @@ https://doh.pub/dns-query
 [/lcofo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/lcoss.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/lcouncil.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -189400,9 +188509,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/lcywhx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/lcyyfj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/lcyzh.com/]https://dns.alidns.com/dns-query
@@ -189522,9 +188628,6 @@ https://doh.pub/dns-query
 [/ldshijie.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ldshj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ldsink.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -189535,9 +188638,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ldtec.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ldtech168.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ldteq.com/]https://dns.alidns.com/dns-query
@@ -190105,9 +189205,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/legu168.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/leguyu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/leha.com/]https://dns.alidns.com/dns-query
@@ -190881,9 +189978,6 @@ https://doh.pub/dns-query
 [/letuinet.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/letuixiaokefu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/letushu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -190912,9 +190006,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/letwx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/letyo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/leuok.com/]https://dns.alidns.com/dns-query
@@ -191149,9 +190240,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/lezhiyun.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/lezhuan168.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/lezhuan365.com/]https://dns.alidns.com/dns-query
@@ -191781,9 +190869,6 @@ https://doh.pub/dns-query
 [/lianjia.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/lianjianode.xyz/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/lianjianxsw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -192411,9 +191496,6 @@ https://doh.pub/dns-query
 [/lieyuncapital.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/lieyunpro.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/liezhe.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -192517,9 +191599,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ligendpower.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ligetz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/lighos.com/]https://dns.alidns.com/dns-query
@@ -192882,9 +191961,6 @@ https://doh.pub/dns-query
 [/linban.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/linchangyu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/linchuangsy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -193030,9 +192106,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/linghua-logistics.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/linghuidzsw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/linghuoai.com/]https://dns.alidns.com/dns-query
@@ -194355,9 +193428,6 @@ https://doh.pub/dns-query
 [/liulishuo.work/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/liulisyb.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/liulixuexiao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -194449,9 +193519,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/liuxingw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/liuxinli.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/liuxuchao.com/]https://dns.alidns.com/dns-query
@@ -194577,9 +193644,6 @@ https://doh.pub/dns-query
 [/live-helps.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/live-qiudidai.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/live-voip.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -194644,9 +193708,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/living.ai/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/livnj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/livotre.com/]https://dns.alidns.com/dns-query
@@ -195048,9 +194109,6 @@ https://doh.pub/dns-query
 [/ljth.hk/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ljtx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ljw113.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -195244,9 +194302,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/lllpv.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/llmtrend.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/llmworld.net/]https://dns.alidns.com/dns-query
@@ -196800,9 +195855,6 @@ https://doh.pub/dns-query
 [/loveinhere.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/loveinhtw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/lovejavascript.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -198195,9 +197247,6 @@ https://doh.pub/dns-query
 [/luodw.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/luoergai.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/luofk.xyz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -198582,9 +197631,6 @@ https://doh.pub/dns-query
 [/luyouqi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/luyouqi.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/luyouwang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -198909,9 +197955,6 @@ https://doh.pub/dns-query
 [/lvyou168.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/lvyou521.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/lvyoubei.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -198943,9 +197986,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/lvzheng.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/lw0591.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/lw0634.net/]https://dns.alidns.com/dns-query
@@ -201222,9 +200262,6 @@ https://doh.pub/dns-query
 [/maiduo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/maie.name/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/maifjb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -201582,9 +200619,6 @@ https://doh.pub/dns-query
 [/makeblock.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/makecn.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/makedie.me/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -201745,9 +200779,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/mamahao.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/mamahuo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/mamamiya.wang/]https://dns.alidns.com/dns-query
@@ -201916,9 +200947,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/mangoru.site/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/mangpielb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/mangren.com/]https://dns.alidns.com/dns-query
@@ -202560,13 +201588,7 @@ https://doh.pub/dns-query
 [/martincl2.me/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/martinlofts.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/marto.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/marvelunlimitedresources.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/maryek.net/]https://dns.alidns.com/dns-query
@@ -202849,9 +201871,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/mattressmachinery.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/mauu.me/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/mawei.live/]https://dns.alidns.com/dns-query
@@ -203212,6 +202231,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/mbgo.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/mbhfit.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/mbian.com/]https://dns.alidns.com/dns-query
@@ -204006,9 +203028,6 @@ https://doh.pub/dns-query
 [/meetsoho.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/meetsprring.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/meetuvip.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -204034,9 +203053,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/mefenlife.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/mega555net10.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/megaemoji.com/]https://dns.alidns.com/dns-query
@@ -204205,9 +203221,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/meidongauto.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/meidunyipin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/meidusacloud.com/]https://dns.alidns.com/dns-query
@@ -207063,9 +206076,6 @@ https://doh.pub/dns-query
 [/minewtech.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/minfengmuye.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/minfengtianfu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -207249,9 +206259,6 @@ https://doh.pub/dns-query
 [/mingren888.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/mingricctv.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/mingrsoft.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -207373,9 +206380,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/mingzihui.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/minhang.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/minhangshi.com/]https://dns.alidns.com/dns-query
@@ -207712,9 +206716,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/miredian.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/mirgaga.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/miri.site/]https://dns.alidns.com/dns-query
@@ -209301,9 +208302,6 @@ https://doh.pub/dns-query
 [/mogujielive.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/mogumiao.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/mogutong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -209475,9 +208473,6 @@ https://doh.pub/dns-query
 [/molipy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/moliqiji.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/molishe.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -209590,9 +208585,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/monhun.fun/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/monidai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/monidata.com/]https://dns.alidns.com/dns-query
@@ -209734,9 +208726,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/moonvy.cool/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/mooooc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/mooool.com/]https://dns.alidns.com/dns-query
@@ -210855,9 +209844,6 @@ https://doh.pub/dns-query
 [/mtcsys.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/mtcx99.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/mtcxsw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -211425,9 +210411,6 @@ https://doh.pub/dns-query
 [/muyangkuaibao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/muyao.asia/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/muyee.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -211480,9 +210463,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/muzhifm.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/muzhigame.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/muzhun.com/]https://dns.alidns.com/dns-query
@@ -212452,9 +211432,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/mylotushealth.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/mylovehome.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/mylsfw.com/]https://dns.alidns.com/dns-query
@@ -213507,9 +212484,6 @@ https://doh.pub/dns-query
 [/nandufoundation.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nanerjia.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nanfang-pump.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -213529,9 +212503,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nanguakexue.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/nangualin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nanguaxia.vip/]https://dns.alidns.com/dns-query
@@ -214152,9 +213123,6 @@ https://doh.pub/dns-query
 [/nbcbd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nbcentre.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nbchao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -214348,9 +213316,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nbmidun.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/nbmpzs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nbmylike.com/]https://dns.alidns.com/dns-query
@@ -214564,9 +213529,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nbzxgj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/nbzyenergy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nc-bio.com/]https://dns.alidns.com/dns-query
@@ -215425,9 +214387,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/neux.studio/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/nevadaheladosjujuy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nevem.com/]https://dns.alidns.com/dns-query
@@ -216312,9 +215271,6 @@ https://doh.pub/dns-query
 [/nhwa-group.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nhxz.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nhygkj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -216478,9 +215434,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nicexf.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/niceyea.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nicezhuanye.com/]https://dns.alidns.com/dns-query
@@ -216663,9 +215616,6 @@ https://doh.pub/dns-query
 [/nimolife.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nimzx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nindeli.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -216787,9 +215737,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ningxiahuangheyun.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ningxingxing.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ningzhe.net/]https://dns.alidns.com/dns-query
@@ -217417,9 +216364,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/njdzjcyq.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/njdzn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/njeport.com/]https://dns.alidns.com/dns-query
@@ -218391,9 +217335,6 @@ https://doh.pub/dns-query
 [/njxfcft-tencentclb.work/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/njxiaochi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/njxizebio.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -218760,9 +217701,6 @@ https://doh.pub/dns-query
 [/nmghhjt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nmghtszkj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nmgjdxy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -218782,9 +217720,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nmglabs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/nmglawyer.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nmgmarathon.com/]https://dns.alidns.com/dns-query
@@ -219510,9 +218445,6 @@ https://doh.pub/dns-query
 [/nnrig.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nnrkz.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nnrongjie.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -219828,9 +218760,6 @@ https://doh.pub/dns-query
 [/nnzjjckj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nnzjqc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nnzksy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -219958,9 +218887,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nodekey.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/nodelayusdtcasino.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nodeme.site/]https://dns.alidns.com/dns-query
@@ -220620,9 +219546,6 @@ https://doh.pub/dns-query
 [/nrmtc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nrsfh.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nrsg.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -221193,9 +220116,6 @@ https://doh.pub/dns-query
 [/nunaios.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nuo5.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nuoan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -221301,9 +220221,6 @@ https://doh.pub/dns-query
 [/nursesky.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/nusudia.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/nuszar.xyz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -221347,9 +220264,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/nuvoton-mcu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/nuxtv.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/nuxue.com/]https://dns.alidns.com/dns-query
@@ -221803,9 +220717,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/o0-2.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/o03080aokk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/o0310o.com/]https://dns.alidns.com/dns-query
@@ -222270,9 +221181,6 @@ https://doh.pub/dns-query
 [/odohx.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ody8.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/odyzj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -222670,9 +221578,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ok888883.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ok9624.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/oka-vip.com/]https://dns.alidns.com/dns-query
@@ -223584,9 +222489,6 @@ https://doh.pub/dns-query
 [/ooclab.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/oodii.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/oofont.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -224223,9 +223125,6 @@ https://doh.pub/dns-query
 [/orfactory.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/org-hddnf.vip/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/org-tollsi.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -224617,9 +223516,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/otakirispring.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/otbmall.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/otc-china.com/]https://dns.alidns.com/dns-query
@@ -225837,9 +224733,6 @@ https://doh.pub/dns-query
 [/palace-international.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/palanceli.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/paldq.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -226156,9 +225049,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/panku.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pankuaisou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/panlai.com/]https://dns.alidns.com/dns-query
@@ -226854,9 +225744,6 @@ https://doh.pub/dns-query
 [/pc521.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/pc5210.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/pc528.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -227218,9 +226105,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/pdlib.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pdlnn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/pdloscar.com/]https://dns.alidns.com/dns-query
@@ -227679,9 +226563,6 @@ https://doh.pub/dns-query
 [/peoplekg.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/peoplelamp.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/peoplemooc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -228063,9 +226944,6 @@ https://doh.pub/dns-query
 [/phbang.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/phcoal.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/phedu.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -228142,9 +227020,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/phoenixfilters.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/phoenixos.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/phoenixtea.org/]https://dns.alidns.com/dns-query
@@ -228238,9 +227113,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/phpbbchina.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/phpbloger.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/phpcashshare.com/]https://dns.alidns.com/dns-query
@@ -228718,9 +227590,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/pin2eat.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pin5i.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/pinan1688.com/]https://dns.alidns.com/dns-query
@@ -229338,9 +228207,6 @@ https://doh.pub/dns-query
 [/pjhubs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/pjjjw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/pjjyzx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -229881,16 +228747,10 @@ https://doh.pub/dns-query
 [/pmdaniu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/pmdled.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/pmdoudou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/pmdown.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pmhfd.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/pmichina.org/]https://dns.alidns.com/dns-query
@@ -230661,9 +229521,6 @@ https://doh.pub/dns-query
 [/powerpms.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/powerrsoft.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/powerskystudio.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -230830,9 +229687,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ppj.io/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ppjtc.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ppkankan01.com/]https://dns.alidns.com/dns-query
@@ -231100,9 +229954,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/pqdtcn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pqneq.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/pqpo.me/]https://dns.alidns.com/dns-query
@@ -231675,9 +230526,6 @@ https://doh.pub/dns-query
 [/pthceshi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/pthejzb.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/pthksw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -231841,9 +230689,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/pubone.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pubrain.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/pubtian.com/]https://dns.alidns.com/dns-query
@@ -232243,9 +231088,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/pv001.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/pv001.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/pv138.com/]https://dns.alidns.com/dns-query
@@ -232980,9 +231822,6 @@ https://doh.pub/dns-query
 [/qchsym.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qchxt.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qcjslm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -233332,9 +232171,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/qdexam.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qdezc.work/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qdfik.com/]https://dns.alidns.com/dns-query
@@ -233739,9 +232575,6 @@ https://doh.pub/dns-query
 [/qfbio.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qfbwcd.xyz/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qfcgroup.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -234093,9 +232926,6 @@ https://doh.pub/dns-query
 [/qhm123.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qhmed.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qhmsg.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -234370,9 +233200,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/qiang100.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qiangchezu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qiangchuan.com/]https://dns.alidns.com/dns-query
@@ -234763,9 +233590,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/qiao-cn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qiao88.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qiaobo.net/]https://dns.alidns.com/dns-query
@@ -235632,9 +234456,6 @@ https://doh.pub/dns-query
 [/qingdaolawyer.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qingdaomaidige.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qingdaomedia.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -236472,9 +235293,6 @@ https://doh.pub/dns-query
 [/qiuhua.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qiujieda.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qiujuer.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -236955,9 +235773,6 @@ https://doh.pub/dns-query
 [/qjwhzs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qjwjw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qjxgold.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -237259,9 +236074,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/qmrms.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qmrobot.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qmsea.com/]https://dns.alidns.com/dns-query
@@ -237735,9 +236547,6 @@ https://doh.pub/dns-query
 [/qqgx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qqgygd.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qqgyhk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -237784,9 +236593,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/qqjia.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qqjiyu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qqjjsj.com/]https://dns.alidns.com/dns-query
@@ -238075,9 +236881,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/qqzby.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qqzfw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qqzhi.com/]https://dns.alidns.com/dns-query
@@ -239514,9 +238317,6 @@ https://doh.pub/dns-query
 [/queryrecord.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/quesela.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/queshu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -239674,9 +238474,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/qukaa.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qukan.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qukanok.com/]https://dns.alidns.com/dns-query
@@ -240681,9 +239478,6 @@ https://doh.pub/dns-query
 [/qz123.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qz456.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qz5z.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -241059,9 +239853,6 @@ https://doh.pub/dns-query
 [/qzzres.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/qzzsbx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qzzyyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -241428,9 +240219,6 @@ https://doh.pub/dns-query
 [/rangxue.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/rangzong.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ranhou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -241510,9 +240298,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/rashost.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/raspigeek.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/rastargame.com/]https://dns.alidns.com/dns-query
@@ -242742,9 +241527,6 @@ https://doh.pub/dns-query
 [/renhaocw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/renhe888.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/renhebusiness.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -243133,9 +241915,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/rewanyouxi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/rewnat.xyz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/reworlder.com/]https://dns.alidns.com/dns-query
@@ -243801,9 +242580,6 @@ https://doh.pub/dns-query
 [/rjaaa.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/rjcopy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/rjdownd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -243942,9 +242718,6 @@ https://doh.pub/dns-query
 [/rlsofa.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/rltyll.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/rlw27.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -244024,9 +242797,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/rmzs.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/rmzszp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/rmzt.com/]https://dns.alidns.com/dns-query
@@ -245938,9 +244708,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/rushan.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/rushb.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/rushi.net/]https://dns.alidns.com/dns-query
@@ -247956,9 +246723,6 @@ https://doh.pub/dns-query
 [/sc.gg/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/sc115.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/sc119.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -248938,9 +247702,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sclf.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sclive.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/scll.cc/]https://dns.alidns.com/dns-query
@@ -250245,9 +249006,6 @@ https://doh.pub/dns-query
 [/sdlkqx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/sdllrc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/sdlmzb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -250420,9 +249178,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sdqte.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sdqu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/sdqyjtzfzcjh.com/]https://dns.alidns.com/dns-query
@@ -251038,9 +249793,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/search616.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/searcheasy.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/searchpstatp.com/]https://dns.alidns.com/dns-query
@@ -251790,9 +250542,6 @@ https://doh.pub/dns-query
 [/sentaihb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/sentaijs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/sentaiwpc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -251899,9 +250648,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/seoxiaoxin.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/seoxuetang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/sep.cc/]https://dns.alidns.com/dns-query
@@ -253272,9 +252018,6 @@ https://doh.pub/dns-query
 [/shangcon.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shangdagc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shangdandan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -254067,9 +252810,6 @@ https://doh.pub/dns-query
 [/shaoxiao.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shaoxing330.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shaoxingwater.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -254158,9 +252898,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sharexiang.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sharingclass.vip/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/sharjahmadrasa.com/]https://dns.alidns.com/dns-query
@@ -255276,9 +254013,6 @@ https://doh.pub/dns-query
 [/shenyunkeji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shenyunlaw.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shenyunmedical.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -255376,9 +254110,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sherc.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sherlockkk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/sherlocky.com/]https://dns.alidns.com/dns-query
@@ -255957,9 +254688,6 @@ https://doh.pub/dns-query
 [/shijiemap.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shijieminghua.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shijiemingren.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -256033,9 +254761,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/shilehui.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/shileizuji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/shilian.com/]https://dns.alidns.com/dns-query
@@ -256827,9 +255552,6 @@ https://doh.pub/dns-query
 [/shldfm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shlhbxg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shliafvzc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -257064,9 +255786,6 @@ https://doh.pub/dns-query
 [/shopeesell.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shopesv.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shopex123.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -257089,9 +255808,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/shopnc.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/shoppingchain.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/shoppkk.com/]https://dns.alidns.com/dns-query
@@ -257343,9 +256059,6 @@ https://doh.pub/dns-query
 [/shoushenlvcheng.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shoutai.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shoutanjjj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -257575,9 +256288,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/shqpxc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/shqswlgs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/shqunlu.com/]https://dns.alidns.com/dns-query
@@ -257988,9 +256698,6 @@ https://doh.pub/dns-query
 [/shuanglin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shuanglingroup.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shuanglongdong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -258115,9 +256822,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/shufa.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/shufa121.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/shufa360.com/]https://dns.alidns.com/dns-query
@@ -258618,9 +257322,6 @@ https://doh.pub/dns-query
 [/shunhejieshui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/shunhengkn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/shunhongny.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -258955,9 +257656,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/shwbs.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/shwdbjgs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/shwdir.com/]https://dns.alidns.com/dns-query
@@ -260946,9 +259644,6 @@ https://doh.pub/dns-query
 [/sisder.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/sisdown.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/sisen.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -261639,9 +260334,6 @@ https://doh.pub/dns-query
 [/sjzzbxh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/sjzzxmm.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/sjzzyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -261841,9 +260533,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/skycaiji.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/skycedu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/skycham.com/]https://dns.alidns.com/dns-query
@@ -264018,9 +262707,6 @@ https://doh.pub/dns-query
 [/songguo7.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/songguobox.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/songguojiankang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -264181,9 +262867,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sontan.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sonybbs.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/sonyong.com/]https://dns.alidns.com/dns-query
@@ -265248,9 +263931,6 @@ https://doh.pub/dns-query
 [/spotpear.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/spouyashop.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/spph-sx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -265969,9 +264649,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ssmys.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ssmysh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ssnewyork.com/]https://dns.alidns.com/dns-query
@@ -267129,9 +265806,6 @@ https://doh.pub/dns-query
 [/stwyxh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/stxfjs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/stxsw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -267643,9 +266317,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sulicn.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sulitui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/suluf.com/]https://dns.alidns.com/dns-query
@@ -268371,9 +267042,6 @@ https://doh.pub/dns-query
 [/suobao8.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/suobifa.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/suobuy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -268771,9 +267439,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/surveyunion.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/survivor99.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/surwit.com/]https://dns.alidns.com/dns-query
@@ -269772,9 +268437,6 @@ https://doh.pub/dns-query
 [/sxpyzg.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/sxpyzx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/sxqingyi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -270037,9 +268699,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sxyqgs.asia/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sxyrxb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/sxyxqk.com/]https://dns.alidns.com/dns-query
@@ -270435,9 +269094,6 @@ https://doh.pub/dns-query
 [/synball.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/sync.sh/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/syncedoffplanet.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -270646,9 +269302,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/sysydz.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sysyhfj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/sysysjnk.com/]https://dns.alidns.com/dns-query
@@ -271464,9 +270117,6 @@ https://doh.pub/dns-query
 [/szed.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/szeds.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/szedu.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -271510,9 +270160,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/szeua.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/szeunon.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/szeverich.com/]https://dns.alidns.com/dns-query
@@ -271717,9 +270364,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/szhfwd.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/szhgmd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/szhgong.com/]https://dns.alidns.com/dns-query
@@ -271969,9 +270613,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/szjlkt.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/szjlwul.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/szjr-tencentclb.cloud/]https://dns.alidns.com/dns-query
@@ -272320,9 +270961,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/szmkd.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/szmrcd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/szmsjs.com/]https://dns.alidns.com/dns-query
@@ -273558,9 +272196,6 @@ https://doh.pub/dns-query
 [/t7805.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/t79d6.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/t7z.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -273996,9 +272631,6 @@ https://doh.pub/dns-query
 [/tais3.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/taisantech.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/taisenfurniture.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -274225,9 +272857,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tamayaki.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tamc8.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tamensay.com/]https://dns.alidns.com/dns-query
@@ -275730,9 +274359,6 @@ https://doh.pub/dns-query
 [/tcping8.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/tcqmj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tcrcb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -275886,9 +274512,6 @@ https://doh.pub/dns-query
 [/tdchats.us/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/tdchatvip.us/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tddmp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -275908,9 +274531,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tdimg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tdjxhb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tdkchina.com/]https://dns.alidns.com/dns-query
@@ -278094,9 +276714,6 @@ https://doh.pub/dns-query
 [/tgstech.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/tgtenty.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tgtest.site/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -278107,9 +276724,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tgzhz.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tgzwmk.xyz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/th-sjy.com/]https://dns.alidns.com/dns-query
@@ -278415,9 +277029,6 @@ https://doh.pub/dns-query
 [/thepresidentialhotel.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/thepsychscrivener.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/thepuli.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -278431,9 +277042,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/thesmartmelon.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/thesofabedshop.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/theszt.com/]https://dns.alidns.com/dns-query
@@ -278656,9 +277264,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/thorn.red/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/thorne-eco.org/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/thosefree.com/]https://dns.alidns.com/dns-query
@@ -279066,9 +277671,6 @@ https://doh.pub/dns-query
 [/tianjin-patek.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/tianjinbbs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tianjinbohaileasing.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -279301,9 +277903,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tianshengdiyi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tianshengholdings.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tianshenyule.com/]https://dns.alidns.com/dns-query
@@ -279577,9 +278176,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tianzeqiti.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tianzequan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tianzhao.net/]https://dns.alidns.com/dns-query
@@ -280116,9 +278712,6 @@ https://doh.pub/dns-query
 [/timmerse.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/timsgrank-apphome65.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/timzuu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -280144,9 +278737,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ting55.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ting89.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tingbook.com/]https://dns.alidns.com/dns-query
@@ -280767,9 +279357,6 @@ https://doh.pub/dns-query
 [/tjrenmu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/tjruien.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tjsjnxh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -280936,9 +279523,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tkcn.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tkd-suzhou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tkfashion.club/]https://dns.alidns.com/dns-query
@@ -281341,9 +279925,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tlwok.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tlxwjx.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tlxxw.com/]https://dns.alidns.com/dns-query
@@ -281896,9 +280477,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tomwx.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tonbao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tone-sun.com/]https://dns.alidns.com/dns-query
@@ -282604,9 +281182,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/toplee.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/toplevel.ink/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/toploong.com/]https://dns.alidns.com/dns-query
@@ -283426,9 +282001,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tqmdp.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tqmy168.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tqpac.com/]https://dns.alidns.com/dns-query
@@ -284340,9 +282912,6 @@ https://doh.pub/dns-query
 [/tshell.online/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/tshengqi888.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tshmkj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -284614,9 +283183,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tt787.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tt818k.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tt919.com/]https://dns.alidns.com/dns-query
@@ -285012,6 +283578,9 @@ https://doh.pub/dns-query
 [/tuangouba.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/tuangoumall666.fun/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/tuanidc.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -285294,9 +283863,6 @@ https://doh.pub/dns-query
 [/tuikemima.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/tuikemohe.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tuili.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -285451,9 +284017,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tumengtech.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tumicomm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tumormed.com/]https://dns.alidns.com/dns-query
@@ -285958,9 +284521,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/tuziip.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tv-live-cctv.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/tv.sohu/]https://dns.alidns.com/dns-query
@@ -288261,9 +286821,6 @@ https://doh.pub/dns-query
 [/ukpathway.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ukpayment.xin/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ukrainevisacenter.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -289995,9 +288552,6 @@ https://doh.pub/dns-query
 [/uuoog.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/uupages.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/uupan.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -290059,9 +288613,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/uuu9.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uuujjj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/uuulan.com/]https://dns.alidns.com/dns-query
@@ -290274,9 +288825,6 @@ https://doh.pub/dns-query
 [/uyouqu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/uyshipin.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/uyueread.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -290299,9 +288847,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/uyunche.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uyuuy.xyz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/uzai.com/]https://dns.alidns.com/dns-query
@@ -290589,9 +289134,6 @@ https://doh.pub/dns-query
 [/valuedshow.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/valuepr.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/valueq-sea.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -290802,9 +289344,6 @@ https://doh.pub/dns-query
 [/vautoshow.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/vayakid.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/vaydeer.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -290824,9 +289363,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/vbango.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/vbaof.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/vbaoxian-cib.com/]https://dns.alidns.com/dns-query
@@ -291267,9 +289803,6 @@ https://doh.pub/dns-query
 [/vertu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/vertuonline.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/very361.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -291559,9 +290092,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/viarmour.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/viberom.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/vibrou.com/]https://dns.alidns.com/dns-query
@@ -293214,9 +291744,6 @@ https://doh.pub/dns-query
 [/vot8.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/vote001.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/vote8.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -293614,9 +292141,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/vstecs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/vstmv.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/vstonefund.com/]https://dns.alidns.com/dns-query
@@ -294585,9 +293109,6 @@ https://doh.pub/dns-query
 [/wanchaohotels.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wanche100.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wanche168.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -294987,9 +293508,6 @@ https://doh.pub/dns-query
 [/wangpiao.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wangpu.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wangqc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -295161,9 +293679,6 @@ https://doh.pub/dns-query
 [/wangzhan360.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wangzhan5.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wangzhanbao.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -295236,9 +293751,6 @@ https://doh.pub/dns-query
 [/wanhui365.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wanhuicar.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wanhuida888.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -295276,9 +293788,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/wanjiedata.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/wanjiedu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/wanjiejixie.com/]https://dns.alidns.com/dns-query
@@ -297027,9 +295536,6 @@ https://doh.pub/dns-query
 [/weekus.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/weelv.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/weeqoo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -297997,9 +296503,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/weixinqing.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/weixinqn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/weixinqz.com/]https://dns.alidns.com/dns-query
@@ -299046,9 +297549,6 @@ https://doh.pub/dns-query
 [/westpac.group/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/westsecu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/westsh.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -299455,9 +297955,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/wh-yuanhang.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/wh10000.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/wh100idc.com/]https://dns.alidns.com/dns-query
@@ -300297,9 +298794,6 @@ https://doh.pub/dns-query
 [/whooyan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/whoregamer.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/whovii.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -300657,9 +299151,6 @@ https://doh.pub/dns-query
 [/whwx2018.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/whwxxy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/whwz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -300795,9 +299286,6 @@ https://doh.pub/dns-query
 [/whzc2008.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/whzdyy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/whzglc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -300844,9 +299332,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/whzwzs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/whzxht.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/whzxzls.com/]https://dns.alidns.com/dns-query
@@ -301141,9 +299626,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/win7china.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/win7en.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/win7qijian.com/]https://dns.alidns.com/dns-query
@@ -301471,9 +299953,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/winstoncc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/winsui.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/winsun3d.com/]https://dns.alidns.com/dns-query
@@ -302052,9 +300531,6 @@ https://doh.pub/dns-query
 [/wkbrowser.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wkcw.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wkddkyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -302358,9 +300834,6 @@ https://doh.pub/dns-query
 [/wlzz666.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wm-dream.vip/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wm-imotor.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -302584,9 +301057,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/wnjdtz.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/wnkbyon.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/wnkj88.com/]https://dns.alidns.com/dns-query
@@ -304239,9 +302709,6 @@ https://doh.pub/dns-query
 [/wss.zone/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wssafe.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wssanguo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -304590,9 +303057,6 @@ https://doh.pub/dns-query
 [/wudaotech.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wudaotv.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wudeli.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -304633,9 +303097,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/wugongdong.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/wuguiyunwei.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/wuguyufen.com/]https://dns.alidns.com/dns-query
@@ -305163,9 +303624,6 @@ https://doh.pub/dns-query
 [/wutanyuhuatan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wuteaclub.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wutep.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -305611,9 +304069,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/www-11187.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/www-4466666.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/www-666789.com/]https://dns.alidns.com/dns-query
@@ -306606,9 +305061,6 @@ https://doh.pub/dns-query
 [/wysap.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/wysbglza.vip/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/wysfgc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -307036,9 +305488,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/wzwqs.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/wzwtrlyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/wzxchem.com/]https://dns.alidns.com/dns-query
@@ -308847,9 +307296,6 @@ https://doh.pub/dns-query
 [/xfyousheng.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xfypaper.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xfyun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -309345,9 +307791,6 @@ https://doh.pub/dns-query
 [/xhygroup.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xhyksha.xyz/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xhylbfyy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -309397,9 +307840,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xiacai.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xiacaopu.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xiache.net/]https://dns.alidns.com/dns-query
@@ -309559,9 +307999,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xiandengdengguan.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xiandp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xianer.net/]https://dns.alidns.com/dns-query
@@ -310314,9 +308751,6 @@ https://doh.pub/dns-query
 [/xiaodian.so/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xiaodianweb.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xiaodigu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -310474,9 +308908,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xiaogushi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xiaohansong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xiaohe-jiankang.com/]https://dns.alidns.com/dns-query
@@ -312099,9 +310530,6 @@ https://doh.pub/dns-query
 [/xilvlaw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xima.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xima.tv/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -313176,16 +311604,10 @@ https://doh.pub/dns-query
 [/xinjunshicn.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xinke-semi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xinkuai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xinlangtupian.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xinlanshengbc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xinle.com/]https://dns.alidns.com/dns-query
@@ -313776,9 +312198,6 @@ https://doh.pub/dns-query
 [/xinyisemi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xinyishiji.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xinyitt.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -313786,9 +312205,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xinyong.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xinyongbuy.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xinyongsoon.com/]https://dns.alidns.com/dns-query
@@ -313978,9 +312394,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xipunet.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xipushuju.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xiqb.com/]https://dns.alidns.com/dns-query
@@ -315744,9 +314157,6 @@ https://doh.pub/dns-query
 [/xmxgame.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xmxmc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xmxsapp.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -316626,9 +315036,6 @@ https://doh.pub/dns-query
 [/xnnpc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xnongren.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xnparking.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -316837,12 +315244,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xpj0066.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xpj8857.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xpjis.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xpkjpk.com/]https://dns.alidns.com/dns-query
@@ -317185,9 +315586,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xshkvip.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xshmzz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xshntc.com/]https://dns.alidns.com/dns-query
@@ -318018,9 +316416,6 @@ https://doh.pub/dns-query
 [/xuejian.site/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xuejiaoso.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xuejiqiao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -318265,6 +316660,12 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/xuexi807.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/xuexi808.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/xuexi822.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/xuexi823.com/]https://dns.alidns.com/dns-query
@@ -319113,9 +317514,6 @@ https://doh.pub/dns-query
 [/xxart.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xxbiquge.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xxbmm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -319782,9 +318180,6 @@ https://doh.pub/dns-query
 [/xyqmall.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xyqxr.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xyqy88.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -320253,9 +318648,6 @@ https://doh.pub/dns-query
 [/xzjtkg.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xzjy.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xzkd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -320448,9 +318840,6 @@ https://doh.pub/dns-query
 [/xzyhealth.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/xzyituo.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/xzyjl.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -320548,9 +318937,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/y77.cc/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/y78r.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/y80s.com/]https://dns.alidns.com/dns-query
@@ -320749,9 +319135,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yaersen.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yaexun.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yaeyy.com/]https://dns.alidns.com/dns-query
@@ -321132,9 +319515,6 @@ https://doh.pub/dns-query
 [/yangoo-global.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/yangpanzg.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yangqi.show/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -321346,9 +319726,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yanjiuchubanshe.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yanjiusuo.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yanjob.com/]https://dns.alidns.com/dns-query
@@ -322839,9 +321216,6 @@ https://doh.pub/dns-query
 [/ydniu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ydouu.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ydr.me/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -323802,9 +322176,6 @@ https://doh.pub/dns-query
 [/ygdl.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ygdy8.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yge.me/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -323857,9 +322228,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ygsf.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ygsm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ygsoft.com/]https://dns.alidns.com/dns-query
@@ -324313,9 +322681,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yibite.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yiboard.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yiboliu.com/]https://dns.alidns.com/dns-query
@@ -325422,9 +323787,6 @@ https://doh.pub/dns-query
 [/yingcankeji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/yingchao-wikipedia.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yingchaozhibo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -325908,9 +324270,6 @@ https://doh.pub/dns-query
 [/yintai.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/yintechi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yintime.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -326011,9 +324370,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yinzuo100.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yioho.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yioulai.com/]https://dns.alidns.com/dns-query
@@ -326305,9 +324661,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yisanban.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yisanwu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yisbei.com/]https://dns.alidns.com/dns-query
@@ -327786,9 +326139,6 @@ https://doh.pub/dns-query
 [/ylzhsk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ylzknk.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ylzmjd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -327817,9 +326167,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ylzz666.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ylzz6777.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ym-trans.com/]https://dns.alidns.com/dns-query
@@ -327931,9 +326278,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ymjx8.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ymkuzhan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ymlfxp.com/]https://dns.alidns.com/dns-query
@@ -328660,9 +327004,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yongaomy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yongchaohuagong.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yongche.com/]https://dns.alidns.com/dns-query
@@ -330894,13 +329235,7 @@ https://doh.pub/dns-query
 [/ysgtg.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ysgushi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yshp.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yshshuimitao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yshsports.com/]https://dns.alidns.com/dns-query
@@ -330936,9 +329271,6 @@ https://doh.pub/dns-query
 [/ysjianzhan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ysjkbk.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ysjwj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -330967,9 +329299,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yslzc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ysmeet.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ysmiji.com/]https://dns.alidns.com/dns-query
@@ -332892,9 +331221,6 @@ https://doh.pub/dns-query
 [/yundaltl.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/yundangan.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yundangnet.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -333292,9 +331618,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yunlitz.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yunliunet.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yunlsp.com/]https://dns.alidns.com/dns-query
@@ -334213,9 +332536,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yuyueweb.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yuyuezhiyangji.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yuyunkj.com/]https://dns.alidns.com/dns-query
@@ -335373,9 +333693,6 @@ https://doh.pub/dns-query
 [/yyzxcj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/yyzyytj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yyzzqk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -335901,9 +334218,6 @@ https://doh.pub/dns-query
 [/yzzd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/yzzp.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/yzzpw.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -335917,9 +334231,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yzzxxz.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/yzzy20-play.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yzzy31-play.com/]https://dns.alidns.com/dns-query
@@ -336057,9 +334368,6 @@ https://doh.pub/dns-query
 [/zack.asia/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zacveh.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zadervice.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -336139,9 +334447,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zailingtech.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zailouxia.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zaimanhua.com/]https://dns.alidns.com/dns-query
@@ -338676,9 +336981,6 @@ https://doh.pub/dns-query
 [/zgwhfe.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zgwlwx.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zgwstxc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -339036,9 +337338,6 @@ https://doh.pub/dns-query
 [/zhange8.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zhangfensir.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zhangferry.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -339301,9 +337600,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zhankoo.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zhankuaqq.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zhanlingol.com/]https://dns.alidns.com/dns-query
@@ -339654,9 +337950,6 @@ https://doh.pub/dns-query
 [/zhaoxiangliao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zhaoxiangyd.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zhaoxiaoshuo.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -339897,9 +338190,6 @@ https://doh.pub/dns-query
 [/zhekouniu.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zhekouo.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zhelaoda.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -339991,9 +338281,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zhengdaojiapei.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zhengdaotang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zhengdapeanut.com/]https://dns.alidns.com/dns-query
@@ -341472,9 +339759,6 @@ https://doh.pub/dns-query
 [/zhizhihu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zhizhizhi.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zhizhizhi.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -341649,9 +339933,6 @@ https://doh.pub/dns-query
 [/zhmedcenter.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zhmeiwen.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zhmf.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -341779,9 +340060,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zhongdajc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zhongdakang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zhongdazm.com/]https://dns.alidns.com/dns-query
@@ -342241,9 +340519,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zhongweihotels.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zhongweiteamtop.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zhongwen.wiki/]https://dns.alidns.com/dns-query
@@ -343414,9 +341689,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zhuqiyang.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zhuqu.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zhuque.me/]https://dns.alidns.com/dns-query
@@ -345612,9 +343884,6 @@ https://doh.pub/dns-query
 [/zjpia.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zjpjmy.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zjplan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -347754,9 +346023,6 @@ https://doh.pub/dns-query
 [/zqcyzg.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zqd086.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zqdns37.vip/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -348267,9 +346533,6 @@ https://doh.pub/dns-query
 [/zspharm.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zsppsj.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zsquant.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -348442,9 +346705,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zt24j.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ztautoparts.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ztbeijixing.com/]https://dns.alidns.com/dns-query
@@ -349048,9 +347308,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zun9.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zunnou.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zunsou.com/]https://dns.alidns.com/dns-query
@@ -349869,9 +348126,6 @@ https://doh.pub/dns-query
 [/zxz.ee/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zxzhengxin.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zxzhijia.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -350152,9 +348406,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zykpic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zyks-lv.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zykths.com/]https://dns.alidns.com/dns-query
@@ -350643,9 +348894,6 @@ https://doh.pub/dns-query
 [/zzllq.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/zzlongyou.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/zzlt.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -350830,9 +349078,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/zztfly.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/zzthjixie.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/zztline.com/]https://dns.alidns.com/dns-query

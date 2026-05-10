@@ -97,6 +97,9 @@ https://doh.pub/dns-query
 [/cl2-cn.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/cl2.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -172,6 +175,9 @@ https://doh.pub/dns-query
 [/gsp10-ssl-cn.ls.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/gsp11-cn.ls.apple.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/gsp12-cn.ls.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -224,12 +230,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/iadsdk.apple.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/icloud-cdn.icloud.com.akadns.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/icloud.cdn-apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query
@@ -328,13 +328,7 @@ https://doh.pub/dns-query
 [/music.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/ocsp-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ocsp.apple.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/ocsp2-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ocsp2.apple.com/]https://dns.alidns.com/dns-query
@@ -352,9 +346,6 @@ https://doh.pub/dns-query
 [/pancake.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/pancake.cdn-apple.com.akadns.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/pba0.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -365,9 +356,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/publicassets.cdn-apple.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/reserve-prime.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/s.mzstatic.com/]https://dns.alidns.com/dns-query

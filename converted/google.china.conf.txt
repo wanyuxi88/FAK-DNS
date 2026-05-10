@@ -73,13 +73,7 @@ https://doh.pub/dns-query
 [/cn.widevine.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/cnappinstall.googleadapis.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/connectivitycheck.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/content.googleadapis.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/crashlyticsreports-pa.googleapis.com/]https://dns.alidns.com/dns-query
@@ -112,13 +106,7 @@ https://doh.pub/dns-query
 [/download.mlcc.google.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/download.qatp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/download.tensorflow.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/emmapplecodevice.googleapis.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/firebase-settings.crashlytics.com/]https://dns.alidns.com/dns-query
@@ -143,9 +131,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/g3.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/go.corp.google.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/gonglchuangl.net/]https://dns.alidns.com/dns-query
@@ -229,21 +214,6 @@ https://doh.pub/dns-query
 [/imasdk.googleapis.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/l2-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/logger-dev.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/logger.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/login.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/monitoring.qpdp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/ocsp.pki.goog/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -265,31 +235,10 @@ https://doh.pub/dns-query
 [/prod.databe.floonet.goog/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/proxyconfig.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qagpublic.qatp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qgadmin.qcpp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/qiao-cn.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/qpx.googleflights.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qualysapi.qatp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/qualysguard.qpdp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/r.cert.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/rapture-prod.corp.google.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/recaptcha-cn.net/]https://dns.alidns.com/dns-query
@@ -337,9 +286,6 @@ https://doh.pub/dns-query
 [/safebrowsing.googleapis.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/scanservice1.qcpp1.net/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/service.urchin.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -347,9 +293,6 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ssl.gstatic.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sslredirect.corp.google.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/staging-controlbe.floonet.goog/]https://dns.alidns.com/dns-query
@@ -361,43 +304,10 @@ https://doh.pub/dns-query
 [/staging.databe.floonet.goog/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/streaming-uberproxy-rotation.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/streaming-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup-ssh-relay.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup-ssh-relay2.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/sup.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tac.googleapis.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
-[/test.gbugs-qa.chromium.org/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
 [/tools.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/tools.l.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uberproxy-debug4.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uberproxy.corp.google.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/uberproxy6.corp.google.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/update.crashlytics.com/]https://dns.alidns.com/dns-query
@@ -422,8 +332,5 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/www.pxcc.com/]https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-
-[/xn--flw351e.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 

@@ -41674,6 +41674,9 @@ https://doh.pub/dns-query
 [/azure.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/azureflame.cloud/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/azureflying.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -49438,6 +49441,9 @@ https://doh.pub/dns-query
 [/bjbaidianfeng.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/bjbaifan.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/bjbalb.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -56749,6 +56755,9 @@ https://doh.pub/dns-query
 [/canghaimachine.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/cangjggame.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/canglanghospital.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -61607,6 +61616,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/chacuo.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/chadaodao.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/chadianhua.net/]https://dns.alidns.com/dns-query
@@ -103343,6 +103355,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/feifanindustry.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/feifanmi.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/feifantxt.com/]https://dns.alidns.com/dns-query
@@ -225349,6 +225364,9 @@ https://doh.pub/dns-query
 [/qingnianwang.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/qingning88.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/qingpanduola.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -276353,6 +276371,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/uniproud.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/unisapps.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/uniscope.com/]https://dns.alidns.com/dns-query

@@ -313,6 +313,9 @@ https://doh.pub/dns-query
 [/itunesconnect.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/mensura.cdn-apple.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/mesu-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 

@@ -42534,6 +42534,9 @@ https://doh.pub/dns-query
 [/b.biz/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/b.c2r.ts.cdn.office.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/b01.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -101803,6 +101806,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/f.biz/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/f.c2r.ts.cdn.office.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/f.cx/]https://dns.alidns.com/dns-query
@@ -244128,6 +244134,9 @@ https://doh.pub/dns-query
 [/shelive.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/shell.cdn.office.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/shellpub.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -255588,6 +255597,9 @@ https://doh.pub/dns-query
 [/statics.cc/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/statics.teams.cdn.office.net/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/staticsdd.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -257725,6 +257737,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/surface.download.prss.microsoft.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/surface.downloads.prss.microsoft.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/surfacetreatmentgroup.com/]https://dns.alidns.com/dns-query

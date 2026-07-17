@@ -84100,6 +84100,9 @@ https://doh.pub/dns-query
 [/dczcsc.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/dczcy.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/dczkj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -87056,6 +87059,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/dididi88.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/didifinance.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/didiglobal.com/]https://dns.alidns.com/dns-query
@@ -107450,6 +107456,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/fuchaipower.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/fuchenkj.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/fuchuangyu.com/]https://dns.alidns.com/dns-query
@@ -160778,6 +160787,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/jieshuwang.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/jietianz.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/jietu365.com/]https://dns.alidns.com/dns-query
@@ -238000,6 +238012,9 @@ https://doh.pub/dns-query
 [/sdshangya.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/sdshdc.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/sdshgk.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
@@ -243050,6 +243065,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/shichangbu.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/shicheng6.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/shichengbao.com/]https://dns.alidns.com/dns-query
@@ -274328,6 +274346,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/ulinix.tv/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/ulongemg.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/ulpay.com/]https://dns.alidns.com/dns-query
@@ -318608,6 +318629,9 @@ https://doh.pub/dns-query
 https://doh.pub/dns-query
 
 [/yxinbao.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
+[/yxingfan.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
 [/yxintent.com/]https://dns.alidns.com/dns-query

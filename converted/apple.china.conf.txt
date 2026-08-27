@@ -196,6 +196,9 @@ https://doh.pub/dns-query
 [/gsp85-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
+[/gspe11-2-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query
+https://doh.pub/dns-query
+
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://dns.alidns.com/dns-query
 https://doh.pub/dns-query
 
